@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siqitoday
 - 👀 I’m interested in Hiking, Music, Detective Novels
 - 🌱 I’m currently learning all sorts of machine learning and data science techniques
-- 💞️ I’m looking to collaborate on product/marketing analytics, in particular NLP and personalization
+- 💞️ I’m looking to collaborate on product/marketing analytics
 - 📫 Reach me at wsqsachi@gmail.com
